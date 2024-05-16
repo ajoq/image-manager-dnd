@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/1hqquh2pbb2bco79?svg=true)](https://ci.appveyor.com/project/ajoq/image-manager-dnd)
 
-https://ajoq.github.io/image-manager-dnd/
+https://ajoq.github.io/js-image-manager-dnd/
 
 #### Описание
 
